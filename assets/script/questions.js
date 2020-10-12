@@ -195,7 +195,7 @@ function allDone() {
             var newScore = JSON.stringify(allScores);
             localStorage.setItem("allScores", newScore);
             // Travels to final page
-            window.location.replace("../Code-Quiz/assets/links/HighScores.html");
+            window.location.replace("../code-quiz/assets/links/HighScores.html");
         }
     });
 
