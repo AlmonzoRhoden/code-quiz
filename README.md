@@ -17,6 +17,4 @@ If the user answers all the questions the quiz is over.
 The user's score and initials are then saved after which the high scores will be displayed.
 Also provide a link straight to viewing the high scores page.
 
-Once the user has entered valid responses, generate a password that meets their criteria and display it in the box.
-
 <h2> Link to deployed application <h2> https://almonzorhoden.github.io/code-quiz/
